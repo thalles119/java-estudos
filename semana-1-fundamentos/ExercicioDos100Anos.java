@@ -16,6 +16,6 @@ public class ExercicioDos100Anos {
         int anoAtual = LocalDate.now().getYear();
         int ano = anoAtual + anosFaltam;
 
-        System.out.println(nome + " você terá 100 anos em " + ano);
+        System.out.println(nome + " você tem " +idade + " anos, e você terá 100 anos em " + ano);
     }
 }
