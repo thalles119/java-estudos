@@ -17,22 +17,6 @@ exercícios e pequenos projetos são adicionados aqui, mostrando a progressão
 
 ---
 
-## Organização
-
-Os projetos são organizados por semana de estudo:
-
-```
-java-estudos/
-├── semana-01-fundamentos/
-│   └── ExercicioDos100Anos.java
-├── semana-02-arrays/
-└── ...
-```
-
-Cada pasta reúne os exercícios e mini-projetos daquele período.
-
----
-
 ## Tecnologias
 
 - **Java** (JDK 17+)
